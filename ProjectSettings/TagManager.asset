@@ -8,6 +8,7 @@ TagManager:
   - Firetip
   - Enemy
   - LaserBeam
+  - AsteroidSpawnPoint
   layers:
   - Default
   - TransparentFX
